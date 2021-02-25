@@ -9,7 +9,6 @@ Este projeto serve como estudos e estruturação
 - lib
   - src
     - controllers
-      *This text will be italic*
       - file_controller.dart
     - models
       - file_models.dart
