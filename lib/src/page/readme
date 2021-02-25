@@ -1,0 +1,6 @@
+page
+
+>> contem todas as páginas e views do sistema
+
+>>> contem uma subpasta com a pagina principal
+>>>> cada subpasta podeá conter uma subpasta widget, reponsável pelos widget dessa pagina/view 
